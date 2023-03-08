@@ -1,4 +1,4 @@
-# Bitcoin Analysis Project
+# Brazil's GDP per Capita Analysis Project
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/DataAnalysisBrazil_GDP/blob/main/License)
 
 # About the Project
