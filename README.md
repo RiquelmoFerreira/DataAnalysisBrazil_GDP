@@ -23,6 +23,7 @@ The project is an analysis of the evolution of GDP per Capita in Brazil and its 
 
 # Run the Project
 Prerequisites:
+- Python 3.11.0 or superior
 - Jupyter Notebook
 - Numpy
 - Pandas
